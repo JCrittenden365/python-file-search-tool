@@ -79,3 +79,7 @@ Add file size and date filtering
 Add logging functionality
 
 Package with an installer
+
+*Author*
+Josh Crittenden
+Aspiring IT professional focused on Linux, automation, and hands-on technical development
