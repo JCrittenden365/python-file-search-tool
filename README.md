@@ -1,9 +1,10 @@
 File Search & Delete Tool
 
-A simple desktop utility built with Python and Tkinter that allows users to search for files by extension within a selected directory,
+A lightweight desktop utility built with Python and Tkinter that allows users to search for files by extension within a selected directory,
 open them with the system’s default application, or permanently delete selected files.
 
-This project was created to practice GUI development, file system operations, and safe user interaction in a real-world style utility tool.
+This project was created as a hands-on learning exercise to strengthen GUI development, file system operations, and structured programming practices.
+
 
 🔧 Features
 
@@ -21,6 +22,7 @@ Permanent file deletion with confirmation prompt
 
 Status bar feedback for user actions
 
+
 🛠 Technologies Used
 
 Python 3
@@ -32,6 +34,7 @@ os / sys / subprocess modules
 File system operations
 
 Basic error handling and input validation
+
 
 🚀 How It Works
 
@@ -45,10 +48,12 @@ Double-click a file to open it
 
 Select a file and click Delete Selected to permanently remove it (confirmation required)
 
+
 ⚠️ Important Note
 
 File deletion is permanent and does not move files to the recycle bin.
 Users are prompted for confirmation before deletion to prevent accidental removal.
+
 
 🎯 Purpose of This Project
 
@@ -63,6 +68,7 @@ Safe user interaction design
 Cross-platform compatibility handling
 
 Structured class-based programming
+
 
 📌 Future Improvements
 
